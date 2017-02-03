@@ -1,4 +1,4 @@
-// you can find the question here:
+// The problem is here:
 // https://www.hackerrank.com/challenges/ctci-making-anagrams
 
 #include <cmath>
