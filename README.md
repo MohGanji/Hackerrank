@@ -15,3 +15,6 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/challenges/ctci-ransom-note)
 * [Priyanka and Toys](
 	https://www.hackerrank.com/challenges/priyanka-and-toys)
+* [Matchstick Warehouse Thief](
+	https://www.hackerrank.com/contests/codeagon/challenges/robber-and-warehouse)
+
