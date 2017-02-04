@@ -13,3 +13,5 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/challenges/sherlock-and-array)
 * [Ransom Note](
 	https://www.hackerrank.com/challenges/ctci-ransom-note)
+* [Priyanka and Toys](
+	https://www.hackerrank.com/challenges/priyanka-and-toys)
