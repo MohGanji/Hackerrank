@@ -11,3 +11,5 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/challenges/ctci-making-anagrams)
 * [Sherlock and Array](
 	https://www.hackerrank.com/challenges/sherlock-and-array)
+* [Ransom Note](
+	https://www.hackerrank.com/challenges/ctci-ransom-note)
