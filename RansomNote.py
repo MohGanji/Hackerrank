@@ -1,3 +1,6 @@
+# The problem is here:
+# https://www.hackerrank.com/challenges/ctci-ransom-note
+
 def ransom_note(mag, ransom):
 	for i in ransom:
 		try:
