@@ -19,3 +19,5 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/contests/codeagon/challenges/robber-and-warehouse)
 * [Linked Lists: Detect a Cycle](
 	https://www.hackerrank.com/challenges/ctci-linked-list-cycle)
+* [Stacks: Balanced Brackets](
+	https://www.hackerrank.com/challenges/ctci-balanced-brackets)
