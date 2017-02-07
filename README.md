@@ -21,3 +21,5 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/challenges/ctci-linked-list-cycle)
 * [Stacks: Balanced Brackets](
 	https://www.hackerrank.com/challenges/ctci-balanced-brackets)
+* [Queues: A Tale of Two Stacks](
+	https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks)
