@@ -23,3 +23,5 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/challenges/ctci-balanced-brackets)
 * [Queues: A Tale of Two Stacks](
 	https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks)
+* [Trees: Is This a Binary Search Tree?](
+	https://www.hackerrank.com/challenges/ctci-is-binary-search-tree)
