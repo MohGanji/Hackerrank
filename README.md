@@ -27,3 +27,5 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/challenges/ctci-is-binary-search-tree)
 * [Equal](
 	https://www.hackerrank.com/challenges/equal)
+* [Regex, Patterns, and an intro to databases](
+	https://www.hackerrank.com/challenges/30-regex-patterns)
