@@ -31,4 +31,5 @@ my solutions for www.hackerrank.com challenges
 	https://www.hackerrank.com/challenges/30-regex-patterns)
 * [Remove the First Capital Letter from Each Element](
 	https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element)
-
+* [Lonely Integer - Bash!](
+	https://www.hackerrank.com/challenges/lonely-integer-2)
